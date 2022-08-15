@@ -1,9 +1,9 @@
 
 
-export const Part = ({part, exercises}) => {
+export const Part = ({ part, exercises }) => {
     return (
         <p>
-        {part} {exercises}
-      </p>
+            {part} {exercises}
+        </p>
     );
 };
